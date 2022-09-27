@@ -34,3 +34,6 @@
 [submodule "2-therain7"]
 	path = 2-therain7
 	url = git@github.com:spbu-coding-2022/2-therain7.git
+[submodule "2-toadharvard"]
+	path = 2-toadharvard
+	url = git@github.com:spbu-coding-2022/2-toadharvard.git

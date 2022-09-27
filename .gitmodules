@@ -37,3 +37,6 @@
 [submodule "2-toadharvard"]
 	path = 2-toadharvard
 	url = git@github.com:spbu-coding-2022/2-toadharvard.git
+[submodule "2-vacmannnn"]
+	path = 2-vacmannnn
+	url = git@github.com:spbu-coding-2022/2-vacmannnn.git

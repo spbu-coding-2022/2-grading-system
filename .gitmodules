@@ -10,3 +10,6 @@
 [submodule "2-PavlushaSource"]
 	path = 2-PavlushaSource
 	url = git@github.com:spbu-coding-2022/2-PavlushaSource.git
+[submodule "2-Paynin"]
+	path = 2-Paynin
+	url = git@github.com:spbu-coding-2022/2-Paynin.git

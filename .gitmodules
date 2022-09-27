@@ -22,3 +22,6 @@
 [submodule "2-SurfaceYellowDuck"]
 	path = 2-SurfaceYellowDuck
 	url = git@github.com:spbu-coding-2022/2-SurfaceYellowDuck.git
+[submodule "2-ancavar"]
+	path = 2-ancavar
+	url = git@github.com:spbu-coding-2022/2-ancavar.git

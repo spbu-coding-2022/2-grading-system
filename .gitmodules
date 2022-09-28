@@ -43,3 +43,6 @@
 [submodule "2-Anna-er"]
 	path = 2-Anna-er
 	url = git@github.com:spbu-coding-2022/2-Anna-er.git
+[submodule "2-Artem-Rzhankoff"]
+	path = 2-Artem-Rzhankoff
+	url = git@github.com:spbu-coding-2022/2-Artem-Rzhankoff.git

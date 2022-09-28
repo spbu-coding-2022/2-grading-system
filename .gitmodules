@@ -67,3 +67,6 @@
 [submodule "2-wokuparalyzed"]
 	path = 2-wokuparalyzed
 	url = git@github.com:spbu-coding-2022/2-wokuparalyzed.git
+[submodule "2-Alabs1"]
+	path = 2-Alabs1
+	url = git@github.com:spbu-coding-2022/2-Alabs1.git

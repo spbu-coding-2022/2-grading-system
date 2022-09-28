@@ -55,3 +55,6 @@
 [submodule "2-gladiuswq"]
 	path = 2-gladiuswq
 	url = git@github.com:spbu-coding-2022/2-gladiuswq.git
+[submodule "2-mloleg"]
+	path = 2-mloleg
+	url = git@github.com:spbu-coding-2022/2-mloleg.git

@@ -64,3 +64,6 @@
 [submodule "2-sokolovskiy-ilya"]
 	path = 2-sokolovskiy-ilya
 	url = git@github.com:spbu-coding-2022/2-sokolovskiy-ilya.git
+[submodule "2-wokuparalyzed"]
+	path = 2-wokuparalyzed
+	url = git@github.com:spbu-coding-2022/2-wokuparalyzed.git

@@ -40,3 +40,6 @@
 [submodule "2-vacmannnn"]
 	path = 2-vacmannnn
 	url = git@github.com:spbu-coding-2022/2-vacmannnn.git
+[submodule "2-Anna-er"]
+	path = 2-Anna-er
+	url = git@github.com:spbu-coding-2022/2-Anna-er.git

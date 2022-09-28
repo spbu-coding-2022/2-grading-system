@@ -61,3 +61,6 @@
 [submodule "2-osogi"]
 	path = 2-osogi
 	url = git@github.com:spbu-coding-2022/2-osogi.git
+[submodule "2-sokolovskiy-ilya"]
+	path = 2-sokolovskiy-ilya
+	url = git@github.com:spbu-coding-2022/2-sokolovskiy-ilya.git

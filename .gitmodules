@@ -85,3 +85,6 @@
 [submodule "2-LeonidElkin"]
 	path = 2-LeonidElkin
 	url = git@github.com:spbu-coding-2022/2-LeonidElkin.git
+[submodule "2-MahaDeborah"]
+	path = 2-MahaDeborah
+	url = git@github.com:spbu-coding-2022/2-MahaDeborah.git

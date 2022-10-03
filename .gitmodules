@@ -79,3 +79,6 @@
 [submodule "2-ItIsMrLaG"]
 	path = 2-ItIsMrLaG
 	url = git@github.com:spbu-coding-2022/2-ItIsMrLaG.git
+[submodule "2-Kuarni"]
+	path = 2-Kuarni
+	url = git@github.com:spbu-coding-2022/2-Kuarni.git

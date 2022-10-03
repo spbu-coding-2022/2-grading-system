@@ -94,3 +94,6 @@
 [submodule "2-d-zaytsev"]
 	path = 2-d-zaytsev
 	url = git@github.com:spbu-coding-2022/2-d-zaytsev.git
+[submodule "2-tepa46"]
+	path = 2-tepa46
+	url = git@github.com:spbu-coding-2022/2-tepa46.git

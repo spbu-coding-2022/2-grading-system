@@ -73,3 +73,6 @@
 [submodule "2-AlexShmak"]
 	path = 2-AlexShmak
 	url = git@github.com:spbu-coding-2022/2-AlexShmak.git
+[submodule "2-ArtyomProkopets"]
+	path = 2-ArtyomProkopets
+	url = git@github.com:spbu-coding-2022/2-ArtyomProkopets.git

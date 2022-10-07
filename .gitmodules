@@ -103,3 +103,6 @@
 [submodule "2-Stemble-dev"]
 	path = 2-Stemble-dev
 	url = git@github.com:spbu-coding-2022/2-Stemble-dev.git
+[submodule "2-Bore4s"]
+	path = 2-Bore4s
+	url = git@github.com:spbu-coding-2022/2-Bore4s.git

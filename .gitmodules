@@ -115,3 +115,6 @@
 [submodule "2-juliakononov"]
 	path = 2-juliakononov
 	url = git@github.com:spbu-coding-2022/2-juliakononov.git
+[submodule "2-letasaak"]
+	path = 2-letasaak
+	url = git@github.com:spbu-coding-2022/2-letasaak.git

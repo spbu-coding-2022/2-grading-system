@@ -127,3 +127,6 @@
 [submodule "2-ftimotin"]
 	path = 2-ftimotin
 	url = git@github.com:spbu-coding-2022/2-ftimotin.git
+[submodule "2-MickeyLizemin"]
+	path = 2-MickeyLizemin
+	url = git@github.com:spbu-coding-2022/2-MickeyLizemin.git

@@ -136,3 +136,6 @@
 [submodule "2-GryaznovAS"]
 	path = 2-GryaznovAS
 	url = git@github.com:spbu-coding-2022/2-GryaznovAS.git
+[submodule "2-VsevolodPotylkin"]
+	path = 2-VsevolodPotylkin
+	url = git@github.com:spbu-coding-2022/2-VsevolodPotylkin.git
